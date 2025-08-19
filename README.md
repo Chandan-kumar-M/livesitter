@@ -1,8 +1,3 @@
-Perfect 👍 I’ll tailor the **README.md** exactly to what the PDF asked under *Deliverables*.
-Here’s the ready-to-use content for your repo:
-
----
-
 # Livesitter
 
 ## 📌 Project Overview
@@ -77,9 +72,3 @@ VITE_API_BASE_URL=http://127.0.0.1:5000/api
 3. Add overlays via toolbar (text/logo).
 4. Drag, resize, rotate, delete overlays live on video.
 5. Overlays persist in MongoDB and reload per stream.
-
----
-
-✅ This README matches exactly what the PDF asked: Code Repo, API Documentation, User Documentation.
-
-Do you also want me to make this look **professional with sections like “Tech Stack” & “Demo Screenshots”** so it impresses reviewers?
